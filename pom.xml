@@ -5,7 +5,7 @@
     <artifactId>enableLicenseViolations</artifactId>
     <packaging>jar</packaging>
 	<groupId>elik</groupId>
-    <version>20.5.2</version>
+    <version>20.5.3</version>
 
     <dependencies>
         <!-- Necessary for DirectoryScanner for globbing the dependency directory -->
